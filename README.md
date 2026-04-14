@@ -1,10 +1,10 @@
 # fluxcenter
 #Fluxcenter Equipamentos Industriais
-Website institucional da Fluxcenter.
+*Website institucional*
 
 #Tecnologias
 - HTML5
 - Tailwind CSS (CDN)
-- JavaScript Vanilla
+- JavaScript 
 - Lucide Icons
 
