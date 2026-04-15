@@ -3,7 +3,7 @@
 
 #Tecnologias
 - HTML5
-- Tailwind CSS (CDN)
+- Tailwind CSS 
 - JavaScript 
-- Lucide Icons
+
 
