@@ -1,6 +1,5 @@
-# fluxcenter
 #Fluxcenter Equipamentos Industriais
-*Website institucional*
+
 
 #Tecnologias
 - HTML5
